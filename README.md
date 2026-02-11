@@ -20,9 +20,10 @@ The dashboard supports filtering by year and state for focused analysis.
 - Minimal layout and formatting to improve readability  
 
 ## Files in This Repository
-- `Dashboard.xlsx` – Main Excel file with the interactive dashboard  
-- `Dashboard.pdf` – PDF version for quick review  
-- `Dashboard.png` – Screenshot of the executive dashboard  
+- [Dashboard.xlsx](Dashboard.xlsx) – Main Excel file with the interactive dashboard  
+- [Dashboard.pdf](Dashboard.pdf) – PDF version for quick review  
+- [Dashboard.png](Dashboard.png) – Screenshot of the executive dashboard  
+
 
 ## Key Observations
 - Sales demonstrate consistent growth over time  
